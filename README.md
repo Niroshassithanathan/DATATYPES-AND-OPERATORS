@@ -3,11 +3,17 @@
 Write a program to find remainder of two integer numbers
 ## ALGORITHAM :
 1.Start
+
 2.Input the first integer (num1).
+
 3.Input the second integer (num2).
-4.Calculate the remainder by using the modulo operator: remainder = num1 % num2
+
+4.Calculate the remainder by using the modulo operator: remainder = num1 % num2.
+
 5.Output the remainder.
+
 6.End.
+
 ## PROGRAM :
 ```
 #include <stdio.h>
